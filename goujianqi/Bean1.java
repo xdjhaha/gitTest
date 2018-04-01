@@ -1,4 +1,5 @@
 package goujianqi;
+import java.lang.Math;
 
 public class Bean1 {
 	private String a;
